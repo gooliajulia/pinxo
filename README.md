@@ -1,0 +1,2 @@
+# pinxo
+Generative AI + Pinterest
